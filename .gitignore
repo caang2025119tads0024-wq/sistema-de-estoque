@@ -1,0 +1,11 @@
+# Arquivos compilados e executáveis
+*.exe
+*.o
+*.out
+
+# Pasta de configuração do editor
+.vscode/
+
+# Pastas de build
+build/
+bin/
